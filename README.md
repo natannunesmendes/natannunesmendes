@@ -1,5 +1,5 @@
 ### Oi!!! Sou Natan Nunes Mendes👋
-![Natan Nunes's Github Status](https://github-readme-stats.vercel.app/api?username=natannunesmendes&theme=dracula)
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=natannunesmendes&theme=dracula"/>
 
 <div style="display:inline_block">
   <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -14,4 +14,5 @@
   <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" height="30" width="40" alt="github-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
+
 ![Snake animation](https://github.com/natannunesmendes/natannunesmendes/blob/output/github-contribution-grid-snake.svg)
