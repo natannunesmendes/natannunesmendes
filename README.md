@@ -1,7 +1,6 @@
 ### Oi!!! Sou Natan Nunes Mendes👋
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=natannunesmendes&theme=dracula"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natannunesmendes&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display:inline_block">
   <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
